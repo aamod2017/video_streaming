@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/aamod2017/video_streaming/issues"
   },
-  "homepage": "https://github.com/aamod2017/video_streaming#readme"
+  "homepage": "https://github.com/aamod2017/video_streaming#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }

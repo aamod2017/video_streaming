@@ -1,0 +1,25 @@
+{
+  "name": "video-streaming-demo",
+  "version": "1.0.0",
+  "description": "this is video streaming demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamod2017/video_streaming.git"
+  },
+  "keywords": [
+    "video-streaming-demo",
+    "how-to-stream-video",
+    "file-streaming"
+  ],
+  "author": "Aamod Tiwari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aamod2017/video_streaming/issues"
+  },
+  "homepage": "https://github.com/aamod2017/video_streaming#readme"
+}
